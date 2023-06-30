@@ -1,0 +1,2 @@
+# hiPlugin
+maven plugin sample
